@@ -23,6 +23,8 @@ A multi-AI-agent investment simulation system using news and market data
 6. SupervisorAgent
 7. RewardAgent
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](посилання-на-ноутбук)
+
 ## Google Sheets
 - Уся взаємодія між агентами через таблицю:
   `[https://docs.google.com/spreadsheets/d/1gZW.../edit](https://docs.google.com/spreadsheets/d/1IfS73cTHuqCApp5XNrtuqFxwlzIINSPuOW5uxvrbgR8/edit)`
