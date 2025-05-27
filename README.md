@@ -25,6 +25,6 @@ A multi-AI-agent investment simulation system using news and market data
 
 ## Google Sheets
 - Уся взаємодія між агентами через таблицю:
-  `https://docs.google.com/spreadsheets/d/1gZW.../edit`
+  `[https://docs.google.com/spreadsheets/d/1gZW.../edit](https://docs.google.com/spreadsheets/d/1IfS73cTHuqCApp5XNrtuqFxwlzIINSPuOW5uxvrbgR8/edit)`
 
 ## Залежності
