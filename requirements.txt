@@ -1,0 +1,9 @@
+transformers
+xgboost
+gspread
+oauth2client
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
