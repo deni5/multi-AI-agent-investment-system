@@ -21,6 +21,7 @@ https://colab.research.google.com/drive/1iiJeIpvTtqCpq3BQVodmv8kT6R0noZRE#scroll
 
 3. AnalyticalAgent
 4. ExecutionAgent
+https://colab.research.google.com/drive/1-pZkK5DBnJqZPClghU_NxNV1g2nLJ-Dn#scrollTo=tjIiJXAGNjPO
 5. NewsAgent
 6. PortfolioAgent
 7. SupervisorAgent
