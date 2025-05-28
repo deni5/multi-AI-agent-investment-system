@@ -12,6 +12,7 @@ A multi-AI-agent investment simulation system using news and market data
 - `agents/` — скрипти кожного агента
 - `notebooks/` — Colab-ноутбуки для тренування моделей
 - `models/` — збережені моделі
+  https://colab.research.google.com/drive/1OXvtthsAsr7qzB5Yyyo7WExkUWuxr1xW#scrollTo=-eoXloT6Layq
 - `runAgents.py` — автоматичний запуск і координація
 
 ## Агенти
