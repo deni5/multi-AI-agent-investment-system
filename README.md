@@ -15,7 +15,8 @@ A multi-AI-agent investment simulation system using news and market data
 - `runAgents.py` — автоматичний запуск і координація
 
 ## Агенти
-1. Client_01 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([посилання-на-ноутбук](https://colab.research.google.com/drive/1iiJeIpvTtqCpq3BQVodmv8kT6R0noZRE#scrollTo=4xGkpI0xK_OS)
+1. Client_01
+[![Open in Colab](https://colab.research.google.com/drive/1iiJeIpvTtqCpq3BQVodmv8kT6R0noZRE#scrollTo=4xGkpI0xK_OS)
 2. AnalyticalAgent
 3. ExecutionAgent
 4. NewsAgent
