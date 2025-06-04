@@ -22,10 +22,13 @@ https://colab.research.google.com/drive/1iiJeIpvTtqCpq3BQVodmv8kT6R0noZRE#scroll
 4. ExecutionAgent
 https://colab.research.google.com/drive/1-pZkK5DBnJqZPClghU_NxNV1g2nLJ-Dn#scrollTo=tjIiJXAGNjPO
 5. NewsAgent
-https://colab.research.google.com/drive/10j2kcQ0sPsH-JpR6uKS8lube1-jDR_dy#scrollTo=zA7PRFrd4uIM
-6. PortfolioAgent
-7. SupervisorAgent
-8. RewardAgent
+https://colab.research.google.com/drive/1mhTKK8zy6HCiutNqQ2Z7epB_7cPRj8KF#scrollTo=0SdDp2y-XiM7
+
+7. PortfolioAgent
+
+8. SupervisorAgent
+
+9. RewardAgent
 
 
 ## Google Sheets
