@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/1mhTKK8zy6HCiutNqQ2Z7epB_7cPRj8KF#scroll
 8. SupervisorAgent
 
 9. RewardAgent
-
+https://colab.research.google.com/drive/1v2vqpZRVXIH2mnpD_QURfutuL567jLfB#scrollTo=sCZ1An8saDbd
 
 ## Google Sheets
 - Уся взаємодія між агентами через таблицю:
